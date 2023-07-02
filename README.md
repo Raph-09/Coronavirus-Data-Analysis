@@ -22,11 +22,11 @@
   
 # DATA VISUALIZATION
 
-1)Use Region as slicer to filter the data
+1) Use Region as slicer to filter the data
 
-2)Proportion of covid patients that are dead and those that are still alive
+2) The proportion of covid patients that are dead and those that are still alive
 
-3)Total cases by Region
+3) Total cases by Region
 
 4)Top 5 Regions with covid patients still living
 
